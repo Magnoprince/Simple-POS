@@ -1,0 +1,5 @@
+Product 1,10.0,79
+Product 2,40.0,63
+Product 3,90.0,25
+Mobile,20.0,4
+Laptop,100.0,100
